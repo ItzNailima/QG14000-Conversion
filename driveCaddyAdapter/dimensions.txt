@@ -1,0 +1,11 @@
+drive holder pcb dimensions
+3.986 in wide
+101.32 mm wide
+1.25 in tall
+2.6 cm tall
+
+7 mm from small side
+9 mm from top long side
+3.5 mm holes
+
+edge 8.4 mm from left edge

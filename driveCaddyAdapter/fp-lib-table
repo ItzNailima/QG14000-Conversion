@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TE-20232462)(type KiCad)(uri ${KIPRJMOD}/Libraries/TE-20232462/TE-20232462.pretty)(options "")(descr ""))
+  (lib (name 1735284-3)(type KiCad)(uri "${KIPRJMOD}/Libraries/TE 1735284-3/1735284-3.pretty")(options "")(descr ""))
+)
